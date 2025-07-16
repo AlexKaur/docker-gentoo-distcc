@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKERHUB_REPOSITORY: ksmanis/gentoo-distcc
-  DOCKERHUB_USERNAME: ksmanis
+  DOCKERHUB_REPOSITORY: alex2l4w/gentoo-distcc
+  DOCKERHUB_USERNAME: alex2l4w
 
 jobs:
   images:
